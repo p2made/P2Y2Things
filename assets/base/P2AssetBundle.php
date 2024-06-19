@@ -34,7 +34,7 @@ class P2AssetBundle extends \p2m\base\assets\P2AssetBase
 	 * @var string
 	 * protected $_p2mProjectId;
 	 */
-	protected $_p2mProjectId = 'yii2-p2y2-things';
+	protected $_p2mProjectId = 'p2y2-things';
 
 	/**
 	 * @var string
